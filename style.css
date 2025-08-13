@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+25&display=swap');
+
+.fondo {
+    background-color: #19BE2C;
+    margin: 0px;
+}
+
+.header {
+    background-color: #00660F;
+    padding: 2% 0% 0% 4%;
+    height: 60px;
+    margin: 0px;
+
+}
+
+.header_enlaces{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.header_boton{
+    display: flex;
+    background-color: #19BE2C;
+    text-decoration: none;
+    border: 2px solid #000000;
+    border-radius: 4px;
+    width: 80px;
+    height: 25px;
+    align-items: center;
+    padding: 3px 19px;
+    justify-content: center;
+}
+
+.titulo_principal{
+    font-family:"Jersey 25";
+    font-size: 64px;
+    text-align: center;
+}
+
+.imagen_principal{
+    width: 270px;
+    height: 378px;
+}
+
+.div_imagen{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

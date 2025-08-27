@@ -158,9 +158,50 @@
     margin-top: 30px;
 }
 
+.div_escudos_monterrey{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
 .escudo{
     height: 60px;
     width: 60px;
+}
+
+.escudo_monterrey{
+    height: 75px;
+    width: 140px;
+    margin-left:10px;
+}
+
+.escudo_pachuca{
+    height: 75px;
+    width: 60px;
+    margin-left: -10px;
+}
+
+.escudo_tijuana{
+    height: 65px;
+    width: 55px;
+}
+
+.escudo_necaxa{
+    height: 80px;
+    width: 80px;
+    margin-top: -18px;
+}
+
+.escudo_leon{
+    height: 90px;
+    width: 85px;
+    margin-top: -8%;
+}
+
+.escudo_chivas{
+    height: 63px;
+    width: 50px;
 }
 
 .div_estadio{

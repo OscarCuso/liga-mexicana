@@ -173,12 +173,29 @@
     margin-left: 25px;
 }
 
+.div_escudos_monterrey_jornada3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-left: -25px;
+    margin-right: 25px;
+}
+
 .div_escudos_leon{
     display: flex;
     justify-content: space-around;
     margin-top: 30px;
     margin-bottom: -15px;
     margin-right: 15px;
+}
+
+.div_escudos_leon_jornada3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: -15px;
+    margin-right: -15px;
+    margin-left: 10px;
 }
 
 .escudo{
@@ -215,6 +232,7 @@
     height: 80px;
     width: 80px;
     margin-top: -18px;
+    margin-left: -10px;
 }
 
 .escudo_leon{

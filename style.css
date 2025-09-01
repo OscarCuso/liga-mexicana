@@ -158,92 +158,9 @@
     margin-top: 30px;
 }
 
-.div_escudos_monterrey{
-    display: flex;
-    justify-content: space-around;
-    margin-top: 25px;
-    margin-left: 40px;
-    margin-bottom: -8px;
-}
-
-.div_escudos_monterrey_jornada2{
-    display: flex;
-    justify-content: space-around;
-    margin-top: 20px;
-    margin-left: 25px;
-}
-
-.div_escudos_monterrey_jornada3{
-    display: flex;
-    justify-content: space-around;
-    margin-top: 20px;
-    margin-left: -25px;
-    margin-right: 25px;
-}
-
-.div_escudos_leon{
-    display: flex;
-    justify-content: space-around;
-    margin-top: 30px;
-    margin-bottom: -15px;
-    margin-right: 15px;
-}
-
-.div_escudos_leon_jornada3{
-    display: flex;
-    justify-content: space-around;
-    margin-top: 30px;
-    margin-bottom: -15px;
-    margin-right: -15px;
-    margin-left: 10px;
-}
-
 .escudo{
-    height: 60px;
-    width: 60px;
-}
-
-.escudo_monterrey{
     height: 75px;
-    width: 140px;
-    margin-left:10px;
-}
-
-.escudo_pachuca{
-    height: 75px;
-    width: 60px;
-    margin-left: -10px;
-}
-
-.escudo_pachuca_jornada2{
-    height: 75px;
-    width: 50px;
-    margin-left: -19px;
-    margin-top: -8px;
-    margin-bottom: -8px;
-}
-
-.escudo_tijuana{
-    height: 65px;
-    width: 55px;
-}
-
-.escudo_necaxa{
-    height: 80px;
-    width: 80px;
-    margin-top: -18px;
-    margin-left: -10px;
-}
-
-.escudo_leon{
-    height: 90px;
-    width: 85px;
-    margin-top: -8%;
-}
-
-.escudo_chivas{
-    height: 63px;
-    width: 50px;
+    width: 75px;
 }
 
 .div_estadio{

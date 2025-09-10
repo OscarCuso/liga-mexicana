@@ -208,10 +208,46 @@
     width: 75px;
 }
 
+.escudo_tabla{
+    height: 20px;
+    width: 20px;
+}
+
 .div_estadio{
     font-family: Abril Fatface;
     font-size: 16px;
     text-align: center;
     display: flex;
     justify-content: center;
+}
+
+table{
+    width: 85%;
+    border-collapse: collapse;
+    margin: 80px 140px;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: #0044ff;
+    color:black;
+    text-align: center;
+}
+
+.club{
+    text-align: left;
+    margin-right: 90px;
+}
+
+.tabla_parrafo{
+    background-color: #1d9dff;
+}
+
+.tabla_parrafo1{
+    background-color: #48c5ff;
 }

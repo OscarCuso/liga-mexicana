@@ -221,7 +221,7 @@
     justify-content: center;
 }
 
-table{
+.tabla_general_1{
     width: 85%;
     border-collapse: collapse;
     margin: 80px 140px;
@@ -288,4 +288,30 @@ th {
     gap: 30px;
     margin-left: 20px;
     margin-top: 3px;
+}
+
+.tabla_goleo{
+    width: 40%;
+    border-collapse: collapse;
+    margin: 40px 140px;
+}
+
+.tabla_club{
+    text-align: center;
+    width: 200px;
+    height: 30px;
+}
+
+.tabla_jugador{
+    text-align: center;
+    margin-right: 90px;
+    width: 220px;
+    height: 30px;
+}
+
+.tabla_goles{
+    text-align: center;
+    margin-right: 90px;
+    width: 100px;
+    height: 30px;
 }

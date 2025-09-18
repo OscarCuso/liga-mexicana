@@ -296,22 +296,9 @@ th {
     margin: 40px 140px;
 }
 
-.tabla_club{
-    text-align: center;
-    width: 200px;
-    height: 30px;
-}
-
-.tabla_jugador{
-    text-align: center;
-    margin-right: 90px;
-    width: 220px;
-    height: 30px;
-}
-
 .tabla_goles{
     text-align: center;
     margin-right: 90px;
     width: 100px;
-    height: 30px;
+    height: 20px;
 }
